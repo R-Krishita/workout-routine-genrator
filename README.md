@@ -1,6 +1,22 @@
-start backend server first
+1. run the command "npm install" to install the necessary dependencies 
+
+
+2. start backend server first
+
 cd backend
+
 node config.db.js
 
-next start the frontend server
+
+3. start the frontend server
+
 npm run dev
+
+
+4. add the necessary .env files for mongodb connection
+
+.env file format
+
+-mongoDB connection string
+
+-port number
