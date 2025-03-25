@@ -3,20 +3,30 @@
 
 2. start backend server first
 
-cd backend
+    cd backend
 
-node config.db.js
+    node config.db.js
 
 
 3. start the frontend server
 
-npm run dev
+    npm run dev
 
 
 4. add the necessary .env files for mongodb connection
 
-.env file format
+    .env file format
 
--mongoDB connection string
+      -mongoDB connection string
 
--port number
+      -port number
+
+
+5. MongoDB compass dbs
+
+    DB name - workoutsDB
+
+   collections to include
+  
+      1. contacts
+      2. workouts
