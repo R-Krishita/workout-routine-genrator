@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "67dee6eb868e1d84a492c83f"
+  },
+  "type": "Cardio",
+  "exercises": [
+    "Jumping Jacks",
+    "Burpees",
+    "High Knees"
+  ],
+  "difficulty": "Intermediate",
+  "duration": "30 min"
+},
+{
+  "_id": {
+    "$oid": "67dee6eb868e1d84a492c840"
+  },
+  "type": "Strength",
+  "exercises": [
+    "Push-ups",
+    "Squats",
+    "Deadlifts"
+  ],
+  "difficulty": "Advanced",
+  "duration": "45 min"
+},
+{
+  "_id": {
+    "$oid": "67dee6eb868e1d84a492c841"
+  },
+  "type": "Flexibility",
+  "exercises": [
+    "Yoga",
+    "Stretching",
+    "Pilates"
+  ],
+  "difficulty": "Beginner",
+  "duration": "20 min"
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b47"
+  },
+  "type": "Cardio",
+  "difficulty": "Beginner",
+  "duration": "20 min",
+  "exercises": [
+    "Jumping Jacks",
+    "High Knees",
+    "Butt Kicks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b48"
+  },
+  "type": "Cardio",
+  "difficulty": "Advanced",
+  "duration": "45 min",
+  "exercises": [
+    "Sprint Intervals",
+    "Burpees",
+    "Mountain Climbers"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b49"
+  },
+  "type": "Strength",
+  "difficulty": "Beginner",
+  "duration": "25 min",
+  "exercises": [
+    "Bodyweight Squats",
+    "Push-ups",
+    "Dumbbell Rows"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b4a"
+  },
+  "type": "Strength",
+  "difficulty": "Intermediate",
+  "duration": "40 min",
+  "exercises": [
+    "Deadlifts",
+    "Bench Press",
+    "Pull-ups"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b4b"
+  },
+  "type": "Flexibility",
+  "difficulty": "Intermediate",
+  "duration": "30 min",
+  "exercises": [
+    "Seated Forward Bend",
+    "Standing Quad Stretch",
+    "Butterfly Stretch"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67df154ef796f61e283a4b4c"
+  },
+  "type": "Flexibility",
+  "difficulty": "Advanced",
+  "duration": "45 min",
+  "exercises": [
+    "Pigeon Pose",
+    "King Pigeon Pose",
+    "Full Splits"
+  ]
+}]
